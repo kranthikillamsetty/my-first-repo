@@ -1,0 +1,4 @@
+Name  :Kranthi
+Course:BCA
+GitHub is used to store the projects and also world wide users can access the project
+When it is kept publicly.
